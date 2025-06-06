@@ -1,0 +1,29 @@
+name: Chapter proposal
+description: Suggest a new chapter or major rewrite
+labels: enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提交新的章节或大改提案，请尽量提供概要和影响点。
+  - type: input
+    id: title
+    attributes:
+      label: Chapter title
+      description: English filename or chapter heading
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Brief description of the proposed content
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact on existing plot
+      description: Which characters or settings does this affect?
+    validations:
+      required: false
