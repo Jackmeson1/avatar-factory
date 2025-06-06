@@ -1,7 +1,9 @@
 # 化身BOSS - AI重写工程化小说项目
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-本项目遵循 [MIT License](LICENSE) 。
+## Badges
+[![Markdown Lint](https://github.com/OWNER/avatar-factory/actions/workflows/markdown.yml/badge.svg)](https://github.com/OWNER/avatar-factory/actions/workflows/markdown.yml)
+
+
 
 ## 项目概述
 
