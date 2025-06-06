@@ -22,6 +22,7 @@
 ├── chapters/                # 正式章节（已定稿）
 │   ├── vol0_prologue.md
 │   ├── vol1_maze.md
+│   ├── vol1_ch001_awakening.md
 │   └── ...
 ├── characters/              # 人物小传（每个角色一个 .md）
 │   ├── jiminghuan.md
@@ -62,13 +63,13 @@
 2. 参考 `styleguide.md` 确认写作规范
 3. 阅读 `settings/power_system.md` 与 `settings/timeline.md` 获取核心设定
 4. 在 `drafts/` 中进行实验性写作
-5. 完成后移至 `chapters/` 并更新 `CHANGELOG.md`
+5. 完成后移至 `chapters/` 并更新 `CHANGELOG.md`，按 `vol{卷}_ch{三位数字}_{关键词}.md` 命名，例如 `vol1_ch001_awakening.md`
 
 ### AI 协作流程
 1. 使用 `prompts/` 中的模板进行AI调用
 2. 将AI产出保存至 `drafts/` 并标注来源
 3. 结合 `characters/` 和 `settings/` 进行一致性检查
-4. 整理定稿后归档至 `chapters/`
+4. 整理定稿后归档至 `chapters/`，遵循 `vol{卷}_ch{三位数字}_{关键词}.md` 命名
 
 ## 版本控制
 

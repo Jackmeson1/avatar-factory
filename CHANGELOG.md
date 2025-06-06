@@ -21,6 +21,7 @@
 - 🆕 新增 vol0_ch004_broken_moonlight.md
 - 🆕 新增 vol1_ch002_daily_briefing.md 等七个草稿，
   衔接主角觉醒至首次觸發「代價系統」的剧情
+
 - 🆕 新增 vol1_ch021_media_surge.md 至 vol1_ch030_red_emergence.md，
   展开红龙风波与黑蛹暗线
 
@@ -55,7 +56,9 @@
 - [ ] 主角角色卡完善 (characters/protagonist.md)
 - [ ] 黑茧角色设定 (characters/black_cocoon.md)
 - [ ] 基础世界观文档 (settings/world_basics.md)
-- [ ] 第一章草稿 (drafts/vol1_ch001_awakening.md)
+
+- [x] 第一章定稿 (chapters/vol1_ch001_awakening.md)
+
 
 ### 中优先级
 - [ ] AI prompt模板库建立 (prompts/)
