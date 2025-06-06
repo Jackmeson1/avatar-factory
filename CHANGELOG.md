@@ -19,13 +19,17 @@
 - 🆕 设计AI协作工作流程
 - 🆕 新增 Prompt 模板 (expand_v1.tpl.md, summarize_2024-12-01.tpl.md)
 - 🆕 新增 vol0_ch004_broken_moonlight.md
+
 - 🆕 新增 chapters/ 目录，并将 vol1_ch01_awakening.md 定稿为 chapters/vol1_ch001_awakening.md
+==
 
 ### 计划中
 - 📝 完成主要角色设定文档
 - 📝 第一章"觉醒"初稿
 - 📝 世界观基础设定文档
 
+### 文档 📄
+- 重命名 drafts/vol1_ch01_awakening.md 为 drafts/vol1_ch001_awakening.md
 ---
 
 ## [0.1.0] - 2024-12-XX - 项目启动
@@ -50,7 +54,9 @@
 - [ ] 主角角色卡完善 (characters/protagonist.md)
 - [ ] 黑茧角色设定 (characters/black_cocoon.md)
 - [ ] 基础世界观文档 (settings/world_basics.md)
+
 - [x] 第一章定稿 (chapters/vol1_ch001_awakening.md)
+
 
 ### 中优先级
 - [ ] AI prompt模板库建立 (prompts/)
