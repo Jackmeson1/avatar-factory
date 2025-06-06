@@ -19,9 +19,10 @@
 - 🆕 设计AI协作工作流程
 - 🆕 新增 Prompt 模板 (expand_v1.tpl.md, summarize_2024-12-01.tpl.md)
 - 🆕 新增 vol0_ch004_broken_moonlight.md
+- 🆕 新增 vol1_ch002_daily_briefing.md 等七个草稿，
+  衔接主角觉醒至首次觸發「代價系統」的剧情
+- 🆕 新增 vol1_ch010.5_black_cocoon_betrayal.md，黑蛹背叛計劃回憶篇
 
-- 🆕 新增 chapters/ 目录，并将 vol1_ch01_awakening.md 定稿为 chapters/vol1_ch001_awakening.md
-==
 
 ### 计划中
 - 📝 完成主要角色设定文档
