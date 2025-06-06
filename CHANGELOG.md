@@ -17,6 +17,7 @@
 - 🆕 建立项目基础结构
 - 🆕 创建核心文档模板 (README.md, OUTLINE.md, styleguide.md)
 - 🆕 设计AI协作工作流程
+- 🆕 新增 Prompt 模板 (expand_v1.tpl.md, summarize_2024-12-01.tpl.md)
 
 ### 计划中
 - 📝 完成主要角色设定文档
