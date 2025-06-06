@@ -94,6 +94,16 @@ python scripts/md_preview.py OUTLINE.md
 - 重大设定变更需在相关角色/世界观文档中同步更新
 - 项目任务在 GitHub Projects 看板跟踪
 
+## Branch Workflow
+
+1. Create feature branches following the pattern `feature/*`.
+2. Open a pull request merging the feature into `develop`.
+3. Periodically merge `develop` back into `main`.
+
+```
+fork → feature/* → PR → develop → main
+```
+
 ---
 
 **开始你的AI辅助创作之旅！** 🚀 
