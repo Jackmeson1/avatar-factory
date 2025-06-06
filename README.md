@@ -1,4 +1,7 @@
 # 化身BOSS - AI重写工程化小说项目
+## Badges
+[![Markdown Lint](https://github.com/OWNER/avatar-factory/actions/workflows/markdown.yml/badge.svg)](https://github.com/OWNER/avatar-factory/actions/workflows/markdown.yml)
+
 
 ## 项目概述
 
