@@ -77,6 +77,16 @@
 - AI生成内容需标注模型和prompt版本
 - 重大设定变更需在相关角色/世界观文档中同步更新
 
+## Branch Workflow
+
+1. Create feature branches following the pattern `feature/*`.
+2. Open a pull request merging the feature into `develop`.
+3. Periodically merge `develop` back into `main`.
+
+```
+fork → feature/* → PR → develop → main
+```
+
 ---
 
 **开始你的AI辅助创作之旅！** 🚀 
