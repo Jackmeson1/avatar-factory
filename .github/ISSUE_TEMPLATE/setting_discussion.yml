@@ -1,0 +1,22 @@
+name: Setting discussion
+description: Discuss or modify world settings
+labels: discussion
+body:
+  - type: markdown
+    attributes:
+      value: |
+        用于讨论世界观设定、能力系统或时间线等相关议题。
+  - type: textarea
+    id: topic
+    attributes:
+      label: Topic
+      description: Which setting element is being discussed?
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Provide your thoughts or proposals
+    validations:
+      required: true
