@@ -22,9 +22,9 @@
 │   ├── jiminghuan.md
 │   └── black_cocoon.md
 ├── settings/                # 世界设定、能力系统等
-│   ├── timeline.md
+│   ├── world_basics.md
 │   ├── power_system.md
-│   └── factions.md
+│   └── timeline.md
 ├── assets/                  # 地图、结构图、AI图像等媒体资源
 ├── prompts/                 # AI prompt 示例与注解（仅模板层）
 │   ├── rewrite_hero.tpl.md
@@ -55,8 +55,9 @@
 ### 快速开始
 1. 查看 `OUTLINE.md` 了解当前故事进度
 2. 参考 `styleguide.md` 确认写作规范
-3. 在 `drafts/` 中进行实验性写作
-4. 完成后移至 `chapters/` 并更新 `CHANGELOG.md`
+3. 阅读 `settings/power_system.md` 与 `settings/timeline.md` 获取核心设定
+4. 在 `drafts/` 中进行实验性写作
+5. 完成后移至 `chapters/` 并更新 `CHANGELOG.md`
 
 ### AI 协作流程
 1. 使用 `prompts/` 中的模板进行AI调用
