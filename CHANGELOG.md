@@ -25,6 +25,8 @@
 - 📝 第一章"觉醒"初稿
 - 📝 世界观基础设定文档
 
+### 文档 📄
+- 重命名 drafts/vol1_ch01_awakening.md 为 drafts/vol1_ch001_awakening.md
 ---
 
 ## [0.1.0] - 2024-12-XX - 项目启动
@@ -49,7 +51,7 @@
 - [ ] 主角角色卡完善 (characters/protagonist.md)
 - [ ] 黑茧角色设定 (characters/black_cocoon.md)
 - [ ] 基础世界观文档 (settings/world_basics.md)
-- [ ] 第一章草稿 (drafts/vol1_ch01_awakening.md)
+- [ ] 第一章草稿 (drafts/vol1_ch001_awakening.md)
 
 ### 中优先级
 - [ ] AI prompt模板库建立 (prompts/)
