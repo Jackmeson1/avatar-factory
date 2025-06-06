@@ -77,6 +77,16 @@
 2. 在草稿中保留修改前版本
 3. 标注修改原因和AI服务来源
 
+## 工具脚本
+
+如需在浏览器中预览任何 Markdown 文件，可运行 `scripts/md_preview.py`：
+
+```bash
+python scripts/md_preview.py OUTLINE.md
+```
+
+脚本会优先调用 `pandoc` 生成 HTML，若未安装则退回到 `python-markdown` 模块，并在 `http://localhost:8000` 启动简易服务器。
+
 ## 贡献指南
 
 - 所有创作内容遵循 `styleguide.md` 规范
